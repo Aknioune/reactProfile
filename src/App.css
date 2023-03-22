@@ -1,7 +1,13 @@
 .App {
   text-align: center;
-}
 
+}
+#root{
+  height: 100vh;
+  display: grid;
+  grid-template-columns: auto;
+   place-items: center; 
+}
 /* 
 
 @media (prefers-reduced-motion: no-preference) {
@@ -37,9 +43,9 @@ h1{
 
 }
 .Box{
+  
  padding-top: 50px;
   margin: auto;
-  margin-top: 20px;
   width: 20em;
   height: 23.4em;
   background-color: rgb(249, 246, 246);
