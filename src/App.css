@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+/* 
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+
+img{
+  border-radius: 50%;
+  width:45%;
+}
+hr{
+  background-color: rgb(62, 152, 207);
+  height: 1px;
+  width: 40%;
+}
+h1{
+  font-family:"Times New Roman", serif;
+
+}
+.Box{
+ padding-top: 50px;
+  margin: auto;
+  margin-top: 20px;
+  width: 20em;
+  height: 23.4em;
+  background-color: rgb(249, 246, 246);
+  box-shadow: 2px 4px 8px 2px rgb(230, 225, 225);
+}
+.icons{
+background-color: white;
+padding: 10px;
+box-shadow: 2px 4px 8px 2px rgb(230, 225, 225);
+}
+.icon{
+ width: 20%;
+}
